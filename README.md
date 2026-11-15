@@ -1,6 +1,8 @@
 # RetardedClem
 
-## Email:
--# retardedclem@gmail.com
-## Discord
+## Contacts
+> a
+### Email:
+# retardedclem@gmail.com
+### Discord
 -# @retardedclem
