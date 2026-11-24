@@ -35,5 +35,5 @@
 > Concept: A bot that does what you want it to, with config. and is all open source <br>
 > Contact: None <br>
 > Discord: Private <br>
-> Invite Bot: Private <br>
+> Invite Bot: `Private` <br>
 > Website: Unavailable <br> 
