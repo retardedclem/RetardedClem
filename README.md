@@ -8,6 +8,7 @@
 > Gmail: retardedclem@gmail.com <br>
 > Proton: retardedclem@proton.me <br>
 > Outlook: retardedclem@outlook.com <br>
+> EmailThings: retardedclem@emailthings.xyz <br>
 ### Discord  »
 > Link: [Link](https://discord.com/users/1523807740449915054) <br>
 > Username: clemwa <br>
@@ -37,3 +38,19 @@
 > Discord: Private <br>
 > Invite Bot: `Private` <br>
 > Website: Unavailable <br> 
+
+## Hobbies:
+
+### Coding »
+> Java: Massive WIP but its a goal
+> Python: Really Easy
+> Skript: Basically Fluent
+> Html & Css: I suck. Dm me if you want to support ig
+### Discord »
+> Way to active <br>
+> Loves making discord servers and setting them up <br>
+> Out to help <br>
+### Fiction »
+> Scp obsessed <br>
+> Dystopian book reader <Br>
+
