@@ -18,3 +18,4 @@
 
 
 
+<span style="color: red;">Red text</span>
