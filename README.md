@@ -17,5 +17,10 @@
 > UUID: 2549e836-d61d-4669-b52e-519b1c017d5b <br>
 
 
+## Projects 
 
-
+### Exclusion »
+> Contact: Exclusionmc.outlook.com
+> Discord: [Click Me](https://discord.gg/MRD9696XRE)
+> IP: `Exclusion.minehut.gg`
+> Website: WIP
