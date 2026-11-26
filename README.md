@@ -42,15 +42,12 @@
 ## Hobbies:
 
 ### Coding »
-> Java: Massive WIP but its a goal
-> Python: Really Easy
-> Skript: Basically Fluent
-> Html & Css: I suck. Dm me if you want to support ig
+> Java: Massive WIP but its a goal <br>
+> Python: Really Easy <br>
+> Skript: Basically Fluent <Br>
 ### Discord »
 > Way to active <br>
 > Loves making discord servers and setting them up <br>
 > Out to help <br>
-### Fiction »
-> Scp obsessed <br>
-> Dystopian book reader <Br>
+
 
