@@ -42,11 +42,10 @@
 ## Hobbies:
 
 ### Coding »
-> Java: Massive WIP but its a goal <br>
 > Python: Really Easy <br>
 > Skript: Basically Fluent <Br>
 ### Discord »
-> Way to active <br>
+> Way too active <br>
 > Loves making discord servers and setting them up <br>
 > Out to help <br>
 
